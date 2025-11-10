@@ -1,6 +1,6 @@
 *Author*: Jonathan Audu Egbe
 
-# [Report Link](https://https://bit.ly/4o3JGwS)
+# [Report Link](https://bit.ly/4hNTFUK)
 ## 📊 Employee Performance Report – HR Analytics Power BI Project
 ## 🧾 Overview
 This Power BI dashboard provides a **comprehensive view of employee performance, workforce demographics, and business outcomes**.  
