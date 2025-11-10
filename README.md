@@ -73,6 +73,7 @@ These KPIs remain consistent across all dashboard pages for easy trend compariso
 - **Star Schema** – Data Modeling (Fact + Dimension tables)  
 
 ---
+![Dashboard Preview](https://github.com/Jonathan-Analyst/Employee-Performance-Analytics/blob/main/Dashboard.png)
 
 
 
